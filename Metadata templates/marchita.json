@@ -1,0 +1,15 @@
+{
+    "name": "Flor Marchita",
+    "description": "Flor NFT marchitandose",
+    "image": "https://gateway.pinata.cloud/ipfs/QmXtBzBqisgHLGFykv7F7neLu9VoEu3kSwH13fsQA6yxNA",
+    "attributes": [
+        {
+            "trait-type": "EtapaFLor",
+            "value": "Marchitandose"
+        },
+        {
+            "trait-type": "ColorFlor",
+            "value": "MORADO"
+        }
+    ]
+}

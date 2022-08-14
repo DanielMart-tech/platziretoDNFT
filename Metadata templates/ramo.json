@@ -1,0 +1,15 @@
+{
+    "name": "Semilla Ramo",
+    "description": "Ramo NFT",
+    "image": "https://gateway.pinata.cloud/ipfs/QmNzN2pAeadGBN2m7c7X4oK7VLACe5V4zmEgFfGUSgxMFG",
+    "attributes": [
+        {
+            "trait-type": "EtapaRamo",
+            "value": "Semilla"
+        },
+        {
+            "trait-type": "ColorFlor",
+            "value": "CAFE"
+        }
+    ]
+}
